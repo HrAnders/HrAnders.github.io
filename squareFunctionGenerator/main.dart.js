@@ -47457,7 +47457,7 @@ $S:24}
 A.Qr.prototype={
 $0(){var s,r="keine Nullstellen vorhanden",q=this.a,p=this.b,o=-q/p,n=Math.sqrt(o),m=this.c
 o=Math.sqrt(o)
-s="Nullstelle 1: "+B.d.K(n-m,2)+"\nNullstelle 2: "+B.d.K(-(o-m),2)
+s="Nullstelle 1: "+B.d.K(n-m,2)+"\nNullstelle 2: "+B.d.K(-o-m,2)
 if(p<=-1&&q<=-1)s=r
 else if(p>=1&&q>=1)s=r
 return s},
