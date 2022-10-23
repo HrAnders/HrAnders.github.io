@@ -1,6 +1,6 @@
 {
-    "name": "rule_of_three_generator",
-    "short_name": "rule_of_three_generator",
+    "name": "square_function_generator",
+    "short_name": "square_function_generator",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
