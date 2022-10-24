@@ -53988,7 +53988,7 @@ A.ip.prototype={}
 A.io.prototype={}
 A.Bm.prototype={
 M(a){var s=null,r=A.aO(["/homeScreen",new A.T2(),"/taskScreen",new A.T3()],t.N,t.hw)
-return new A.rG(A.a6_(B.as,new A.kX(s),B.F,s,0,s,s,s,s,B.dq),r,"Flutter Demo",!1,s)}}
+return new A.rG(A.a6_(B.as,new A.kX(s),B.F,s,0,s,s,s,s,B.dq),r,"Dreisatzgenerator",!1,s)}}
 A.T2.prototype={
 $1(a){return new A.kX(null)},
 $S:326}
